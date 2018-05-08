@@ -1,4 +1,4 @@
-[预览demo](https://onesevenzerofour.github.io/DouBanMovie/)
+
 
 1. vue
 2. vue-router
