@@ -106,13 +106,14 @@
       ]
     }
 ```
+```
     多入口配置app和hello会生成多个出口文件app.bundle.js、hello.bundle.js
 
     new CleanWebpackPlugin会清理旧的dist下文件，
 
     new HtmlWebpackPlugin会自动生成dist/index.html文件
-    
-    <div align="space-between">
+```
+-   <div align="space-between">
         <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/01.png" width="375"/>
     </div>
 
