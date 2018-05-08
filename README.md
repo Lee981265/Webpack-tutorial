@@ -119,17 +119,16 @@
     </div>
     
 ### 注
-    ```
-        webpack4默认入口是src/index.js文件
-        
+    ```md
+        webpack4默认入口是src/index.js文件 
     ```
     
 ### 运行
-
-   - npm run start
-   - npm run dev
-   - npm run build
-   
+    ```
+       npm run dev
+       npm run build
+       npm run start
+    ```   
 ### Abaot Me
     If you have some help, you can star me. :smiley:[Lee](https://github.com/Jack-PrettySunshine)
   
