@@ -113,7 +113,13 @@
 
     new HtmlWebpackPlugin会自动生成dist/index.html文件
 ```
--   <div align="space-between">
-        <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/01.png" width="375"/>
+ - 如图所示
+  <div align="space-between">
+        <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/02.jpg" width="100%"/>
     </div>
+    
+### 注
+    ```
+        webpack4默认入口是src/index.js文件
+    ```
 
