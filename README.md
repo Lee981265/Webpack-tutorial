@@ -18,7 +18,7 @@
 ```
 - 在Webpack-tutorial目录下新建Webpack-tutorial/src/index.js文件，作为默认入口文件
     <div align="space-between">
-        <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/01.png" width="375"/>
+        <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/01.png" width="100%"/>
     </div>
 
 - 修改package.js如下:
@@ -129,6 +129,6 @@
    - npm run build
    
 ### Abaot Me
-    If you have some help, you can star me. [Lee](https://github.com/Jack-PrettySunshine)
+    If you have some help, you can star me. :smiley:[Lee](https://github.com/Jack-PrettySunshine)
   
 
