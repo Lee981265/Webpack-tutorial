@@ -21,7 +21,11 @@
         <img src="https://github.com/Jack-PrettySunshine/Webpack-tutorial/blob/webpack4.81/img/01.png" width="375"/>
     </div>
 
-- 修改package.js如下
+- 修改package.js如下:
+   - webpack4中需要指明使用的模式：
+     - start: 开始编译文件
+     - dev: 开始编译文件并监听文件
+     - build: 生产环境 
 ```json
     {
       "name": "webpack4.8.1",
