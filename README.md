@@ -64,4 +64,47 @@
 ```npm
     cnpm install webpack --save-dev
 ```
+- 创建webpack.config.js
+```js
+    const path = require('path')
+    const HtmlWebpackPlugin = require('html-webpack-plugin');
+    const CleanWebpackPlugin = require('clean-webpack-plugin');
+
+    module.exports = {
+      entry: { 
+        app: './src/index.js',   
+        hello: './src/hello.js'
+      },
+      output: {
+        filename: '[name].bundle.js',
+        path: path.resolve(__dirname, 'dist')
+      },
+      module: {
+        rules: [{
+          test: /\.js$/,
+          include: [path.resolve(__dirname, 'src')],
+          loader: 'babel-loader'
+        },
+        {
+          test: /\.css$/,
+          use: [
+          "style-loader",
+          "css-loader"
+          ]
+        }
+        ]
+      },
+      plugins: [
+      new CleanWebpackPlugin(['dist']),
+      new HtmlWebpackPlugin({
+        title: 'Output Management'
+      })
+      ]
+    }
+```
+    多入口配置app和hello会生成多个出口文件app.bundle.js、hello.bundle.js
+
+    new CleanWebpackPlugin会清理旧的dist下文件，
+
+    new HtmlWebpackPlugin会自动生成dist/index.html文件
 
