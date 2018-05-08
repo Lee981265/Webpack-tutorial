@@ -1,0 +1,89 @@
+{
+  "name": "Vue",
+  "version": "1.0.0",
+  "description": "*  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r     *  <meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no\">\r             -initial-scale=1.0 确保网页加载时，以 1:1 的比例呈现，不会有任何的缩放。\r             -user-scalable=no 可以禁用其缩放（zooming）功能\r             -maximum-scale=1.0 与 user-scalabl\r              一起使用。这样禁用缩放功能后，用户只能滚动屏幕，\r              就能让您的网站看上去更像原生应用的感觉。",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A0150315/littleProject.git"
+  },
+  "keywords": [
+    "webpack",
+    "vue",
+    "vuejs",
+    "material",
+    "mobile",
+    "app"
+  ],
+  "author": "JasonTan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A0150315/littleProject/issues"
+  },
+  "homepage": "https://github.com/A0150315/littleProject#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "jade": "^1.11.0",
+    "jquery": "^3.2.1",
+    "jsonp": "^0.2.1",
+    "muse-ui": "^2.1.0",
+    "vue": "^2.2.4",
+    "vue-awesome-swiper": "^2.6.7",
+    "vue-swiper": "^0.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "babel-preset-env": "^1.2.1",
+    "babel-preset-stage-2": "^6.22.0",
+    "babel-register": "^6.22.0",
+    "chalk": "^1.1.3",
+    "connect-history-api-fallback": "^1.3.0",
+    "copy-webpack-plugin": "^4.0.1",
+    "css-loader": "^0.26.1",
+    "eventsource-polyfill": "^0.9.6",
+    "express": "^4.14.1",
+    "extract-text-webpack-plugin": "^2.0.0",
+    "file-loader": "^0.10.1",
+    "friendly-errors-webpack-plugin": "^1.1.3",
+    "function-bind": "^1.1.0",
+    "html-webpack-plugin": "^2.28.0",
+    "http-proxy-middleware": "^0.17.3",
+    "mysql": "^2.14.1",
+    "node-sass": "^4.5.3",
+    "opn": "^4.0.2",
+    "optimize-css-assets-webpack-plugin": "^1.3.0",
+    "ora": "^1.1.0",
+    "rimraf": "^2.6.0",
+    "sass-loader": "^6.0.6",
+    "semver": "^5.3.0",
+    "server": "^1.0.0-beta.3",
+    "style-loader": "^0.19.0",
+    "url-loader": "^0.5.7",
+    "vue-loader": "^11.1.4",
+    "vue-router": "^2.7.0",
+    "vue-style-loader": "^2.0.0",
+    "vue-template-compiler": "^2.2.4",
+    "vuex": "^2.4.1",
+    "webpack": "^3.6.0",
+    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-dev-middleware": "^1.10.0",
+    "webpack-dev-server": "^2.9.1",
+    "webpack-hot-middleware": "^2.16.1",
+    "webpack-merge": "^2.6.1"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
