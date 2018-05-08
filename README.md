@@ -122,4 +122,13 @@
     ```
         webpack4默认入口是src/index.js文件
     ```
+    
+### 运行
+   - npm run start
+   - npm run dev
+   - npm run build
+   
+### Abaot Me
+    If you have some help, you can star me. [Lee](https://github.com/Jack-PrettySunshine)
+  
 
