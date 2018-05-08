@@ -1,5 +1,5 @@
 
-
+### 关于webpack3.6.0版本就不过多介绍
 1. vue
 2. vue-router
 3. vuex
@@ -12,3 +12,6 @@
 10. sass/less
 11. webpack
 12. 移动端
+
+### Abaot Me
+    If you have some help, you can star me. :point_right:[Lee](https://github.com/Jack-PrettySunshine):see_no_evil:
