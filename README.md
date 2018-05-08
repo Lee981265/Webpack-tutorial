@@ -1,5 +1,6 @@
 
 ### 关于webpack3.6.0版本就不过多介绍
+
    1. vue
    2. vue-router
    3. vuex
