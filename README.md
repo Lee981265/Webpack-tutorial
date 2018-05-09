@@ -14,5 +14,5 @@
    - webpack
    - 移动端
 
-### Abaot Me
+### Ab Me
     If you have some help, you can star me. :point_right:[Lee](https://github.com/Jack-PrettySunshine):see_no_evil:
