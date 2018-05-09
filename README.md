@@ -16,3 +16,17 @@
 
 ### Ab Me
     If you have some help, you can star me. :point_right:[Lee](https://github.com/Jack-PrettySunshine):see_no_evil:
+    
+    
+    <p>
+  <sub>Made with ❤︎ by
+    <a href="https://github.com/Wscats">Wscats</a>
+  </sub>
+</p>
+
+<p>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/npm.svg" alt="NPM version"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/mit.svg" alt="MIT License"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/linux.svg" alt="Linux Build"></a>
+<a href="https://github.com/Wscats/github-emoji"><img src="https://wscats.github.io/Angular-news/news/image/windows.svg" alt="Window Build"/></a>
+</p>
