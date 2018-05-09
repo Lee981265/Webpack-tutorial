@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A0150315/littleProject.git"
+    "url": ""
   },
   "keywords": [
     "webpack",
@@ -18,12 +18,12 @@
     "mobile",
     "app"
   ],
-  "author": "JasonTan",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/A0150315/littleProject/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/A0150315/littleProject#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.16.2",
     "jade": "^1.11.0",
