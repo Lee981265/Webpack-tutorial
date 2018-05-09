@@ -129,7 +129,7 @@
      npm run build
      npm run start
       
-### Abaot Me
+### Aboat Me
     If you have some help, you can star me. :smiley:[Lee](https://github.com/Jack-PrettySunshine)
   
 
